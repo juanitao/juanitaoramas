@@ -4,12 +4,11 @@
 
 ---
 
-### 💻 Professional Summary
-[cite_start]I am a Systems Engineer with a focus on building scalable, high-performance web applications[cite: 2, 5]. [cite_start]Since graduating from **Escuela Colombiana de Ingeniería Julio Garavito**, I’ve collaborated with multinational teams to deliver high-impact software[cite: 14, 25, 26].
+### 💻 Professional Summary I am a Systems Engineer with a focus on building scalable, high-performance web applications. Since graduating from **Escuela Colombiana de Ingeniería Julio Garavito**, I’ve collaborated with multinational teams to deliver high-impact software.
 
 * **Current Role:** Developing a specialized platform at **MercadoLibre** to test, evaluate, and monitor AI agent responses and behavior.
-* [cite_start]**Past Experience:** Contributed to **AI agent orchestration** systems and international customer experience projects at **SAP** and **IBM**[cite: 6, 11, 14, 18].
-* [cite_start]**Tech Stack:** Strong expertise in **React** and **Angular**, with daily work in **Node.js, Python**, and expanding into **Go** for scalable backend logic[cite: 5, 21, 22, 23].
+* **Past Experience:** Contributed to **AI agent orchestration** systems and international customer experience projects at **SAP** and **IBM**.
+* **Tech Stack:** Strong expertise in **React** and **Angular**, with daily work in **Node.js, Python**, and expanding into **Go** for scalable backend logic.
 
 ---
 
@@ -22,14 +21,14 @@
 * **Stack:** `React`, `Node.js`, `Python`, `Go`, `Jest`.
 
 #### **AI Node Orchestration System**
-* [cite_start]**Role:** Fullstack Developer [cite: 8]
-* [cite_start]**Focus:** Contributed to the design of MCPs (Model Context Protocols) to support agent coordination and system scalability[cite: 11].
+* **Role:** Fullstack Developer 
+* ]**Focus:** Contributed to the design of MCPs (Model Context Protocols) to support agent coordination and system scalability.
 * **Stack:** `React`, `Node.js`, `Express`, `Jest`.
 
 #### **Banking & Customer Experience**
-* [cite_start]**Roles:** Frontend & Fullstack Developer at **SAP** and **IBM**[cite: 12, 16].
-* [cite_start]**Focus:** Developed payment portals and web components for multinational teams[cite: 14, 18].
-* [cite_start]**Stack:** `Angular`, `Java`, `Spring Boot`, `AEM`, `JavaScript`[cite: 14, 19].
+* **Roles:** Frontend & Fullstack Developer at **SAP** and **IBM**.
+* **Focus:** Developed payment portals and web components for multinational teams.
+* **Stack:** `Angular`, `Java`, `Spring Boot`, `AEM`, `JavaScript`.
 
 ---
 
@@ -39,5 +38,5 @@
 ---
 
 ### 📫 Connect with me:
-* [cite_start]**LinkedIn:** [linkedin.com/in/juanita-oramas-bermudez/](https://www.linkedin.com/in/juanita-oramas-bermudez/) [cite: 4]
-* [cite_start]**Email:** juanitaoramas@gmail.com [cite: 3]
+* **LinkedIn:** [linkedin.com/in/juanita-oramas-bermudez/](https://www.linkedin.com/in/juanita-oramas-bermudez/) 
+* **Email:** juanitaoramas@gmail.com 
